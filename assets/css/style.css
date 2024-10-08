@@ -1,10 +1,10 @@
 /* pading and margin to 0 and border-box in place */
 
-body {
+/* body {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-}
+} */
 
 /*------------------------------------------ Images */
 
@@ -12,5 +12,5 @@ body {
     background-image: url(../images/logo-color-crop.png);
     background-repeat: no-repeat;
     background-size: cover;
-    
+
 }
