@@ -10,7 +10,7 @@
 
 body {
     background-image: url(../images/logo-color-crop.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat: repeat-y ;
+    background-size: 100% 100%;
 
 }
